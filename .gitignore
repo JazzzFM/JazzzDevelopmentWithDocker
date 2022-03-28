@@ -1,0 +1,2 @@
+# Let's ignore the volume of data of mongo
+dockerdata/mongodata/
